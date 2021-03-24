@@ -73,7 +73,7 @@ h1
 	.member img
 	{
 		margin-right: 10px;
-		width: 50%;
+		max-width: 90px;
 	}
 
 	.member h2, p
